@@ -18,6 +18,26 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 
 [Java review]: classes/theory/2018.06.06/
 
+## Build instructions
+
+Use the following commands to compile any `.java` file in this repository.
+
+```bash
+# Assuming you have the JDK in your PATH.
+
+# Compiles the file in the same folder.
+$ javac File.java
+# If the compiler complain about the folder,
+# create it using the command below, and
+# run the command above again.
+$ mkdir bin
+# Run the program.
+$ java File.class
+```
+
+You can also import any `.java` file to a Java IDE, like
+Eclipse, Netbeans or IntelliJ Idea too.
+
 ## License
 
     The MIT License (MIT)
