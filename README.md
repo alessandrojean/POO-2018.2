@@ -32,7 +32,7 @@ $ javac File.java
 # run the command above again.
 $ mkdir bin
 # Run the program.
-$ java File.class
+$ java File
 ```
 
 You can also import any `.java` file to a Java IDE, like
