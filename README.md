@@ -12,6 +12,12 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
+## Classes
+
+- **06/06/2018** *(Theory)*: [Java review].
+
+[Java review]: classes/theory/2018.06.06/
+
 ## License
 
     The MIT License (MIT)
