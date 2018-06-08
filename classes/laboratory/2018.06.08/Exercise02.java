@@ -2,6 +2,21 @@ import java.util.Arrays;
 
 public class Exercise02 {
 
+  /**
+   * Insere o elemento {@code number} na posição
+   * {@code position}, caso possível, no vetor
+   * de inteiros {@code array}, deslocando os
+   * elementos posteriores a {@code position}.
+   * Os elementos com valor de {@code 0} no 
+   * vetor {@code array} são tratados como 
+   * espaços em branco e serão utilizados,
+   * caso possível, para os deslocamentos.
+   * 
+   * @param array vetor a ser modificado.
+   * @param number elemento a ser inserido, caso possível.
+   * @param position posição onde {@code number} será inserido.
+   * @return {@code true} se houve sucesso.
+   */
   public static boolean insertInArray(int[] array, int number, int position) {
     // Se a posição é inválida, ou se a 
     // posição é maior que o tamanho do vetor.

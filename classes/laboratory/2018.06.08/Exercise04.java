@@ -2,13 +2,13 @@ public class Exercise04 {
 
   /**
    * Devolve um vetor de inteiros com todos os 
-   * números no intervalo de 2 até {@code n}. 
+   * números primos no intervalo de 2 até {@code n}. 
    * O método utiliza um algoritmo baseado no
    * Crivo de Eratóstenes.
    * 
    * @param n intervalo máximo.
-   * @return vetor de inteiros com os primos
-   *         entre 2 e n.
+   * @return vetor de inteiros com os números 
+   *         primos entre 2 e n.
    */
   public static int[] sieveOfEratosthenes(int n) {
     boolean[] prime = new boolean[n + 1];
