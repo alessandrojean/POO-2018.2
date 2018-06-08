@@ -8,15 +8,17 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA018--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.06.06-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.06.08-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
 ## Classes
 
 - **06/06/2018** *(Theory)*: [Java review].
+- **08/06/2018** *(Laboratory)*: [Java review exercises].
 
 [Java review]: classes/theory/2018.06.06/
+[Java review exercises]: classes/theory/2018.06.08/
 
 ## Build instructions
 
