@@ -18,7 +18,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **08/06/2018** *(Laboratory)*: [Java review exercises].
 
 [Java review]: classes/theory/2018.06.06/
-[Java review exercises]: classes/theory/2018.06.08/
+[Java review exercises]: classes/laboratory/2018.06.08/
 
 ## Build instructions
 
