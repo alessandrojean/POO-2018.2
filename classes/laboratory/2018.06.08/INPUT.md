@@ -4,7 +4,8 @@
 
 Calcular e mostrar o valor de PI utilizando a série de Gregory:
 
-<p align="center"><img src="https://rawgit.com/alessandrojean/POO-2018.2/master/classes/laboratory/2018.06.08/svgs/02fc9d071f883759fdc7b979c5b889c8.svg?invert_in_darkmode" align=middle width=214.30695pt height=32.9901pt/></p>
+$$\frac{\pi}{4} = \frac{1}{1} - \frac{1}{3} + \frac{1}{5} - \frac{1}{7}
+  + \frac{1}{9} - \dotsb$$
 
 ## Exercício 2
 
