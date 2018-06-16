@@ -8,7 +8,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA018--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.06.13-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.06.15-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -17,10 +17,13 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **06/06/2018** *(Theory)*: [Java review].
 - **08/06/2018** *(Laboratory)*: [Java review exercises].
 - **13/06/2018** *(Theory)*: [Classes, objects, messages, encapsulation, UML].
+- **15/06/2018** *(Laboratory)*: [Classes, objects, messages, encapsulation, UML exercises]. [Linked Lists].
 
 [Java review]: classes/theory/2018.06.06/
 [Java review exercises]: classes/laboratory/2018.06.08/
 [Classes, objects, messages, encapsulation, UML]: classes/theory/2018.06.13
+[Classes, objects, messages, encapsulation, UML exercises]: classes/laboratory/2018.06.15/part-01/
+[Linked Lists]: classes/laboratory/2018.06.15/part-02/
 
 ## Build instructions
 
@@ -30,7 +33,7 @@ Use the following commands to compile any `.java` file in this repository.
 # Assuming you have the JDK in your PATH.
 
 # Compiles the file in the same folder.
-$ javac File.
+$ javac File.java
 # Compiles all the .java files in the folder.
 $ javac *.java
 # Run the program.
