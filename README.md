@@ -17,8 +17,12 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **06/06/2018** *(Theory)*: [Java review].
 - **08/06/2018** *(Laboratory)*: [Java review exercises].
 - **13/06/2018** *(Theory)*: [Classes, objects, messages, encapsulation, UML].
-- **15/06/2018** *(Laboratory)*: [Classes, objects, messages, encapsulation, UML exercises]. [Linked Lists].
+- **15/06/2018** *(Laboratory)*: [Classes, objects, messages, encapsulation,   UML exercises]. [Linked Lists].
 - **18/06/2018** *(Theory)*: [Constructors, overload, relashionships].
+- **23/06/2018** *(Laboratory)*: [Constructors, overload,
+  relashionships exercises].
+- **27/06/2018** *(Theory)*: [Inheritance, polymorphism].
+- **29/06/2018** *(Laboratory)* [Inheritance, polymorphism exercises].
 
 [Java review]: classes/theory/2018.06.06/
 [Java review exercises]: classes/laboratory/2018.06.08/
@@ -26,6 +30,9 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [Classes, objects, messages, encapsulation, UML exercises]: classes/laboratory/2018.06.15/part-01/
 [Linked Lists]: classes/laboratory/2018.06.15/part-02/
 [Constructors, overload, relashionships]: classes/theory/2018.06.18/
+[Constructors, overload, relashionships exercises]: classes/laboratory/2018.06.23/
+[Inheritance, polymorphism]: classes/theory/2018.06.27/
+[Inheritance, polymorphism exercises]: classes/laboratory/2018.06.29/
 
 ## Build instructions
 
