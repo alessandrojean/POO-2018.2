@@ -1,4 +1,5 @@
 # Revisão de Java (prática)
+*Retirado dos slides do Prof. Paulo H. Pisani e Prof. Saul C. Leite, CMCC/UFABC.*
 
 ## Exercício 1
 
