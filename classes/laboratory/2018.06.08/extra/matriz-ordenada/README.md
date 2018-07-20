@@ -1,4 +1,5 @@
 # Matriz Ordenada (V2)
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Faça um programa que, dada uma matriz `A` de dimensões
 `N x N`, ordene de forma crescente as colunas da matriz.

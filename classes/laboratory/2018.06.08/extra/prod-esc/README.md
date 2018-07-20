@@ -1,4 +1,5 @@
 # Produto Escalar
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Em álgebra linear, o produto escalar de dois vetores <img src="https://rawgit.com/alessandrojean/POO-2018.2/master/classes/laboratory/2018.06.08/extra/prod-esc/svgs/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode" align=middle width=12.328800000000005pt height=22.46574pt/> e <img src="https://rawgit.com/alessandrojean/POO-2018.2/master/classes/laboratory/2018.06.08/extra/prod-esc/svgs/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode" align=middle width=13.293555000000003pt height=22.46574pt/>
 (denotado por <img src="https://rawgit.com/alessandrojean/POO-2018.2/master/classes/laboratory/2018.06.08/extra/prod-esc/svgs/df38d07e48ba29024be60b4c169f6c8f.svg?invert_in_darkmode" align=middle width=37.49427000000001pt height=22.46574pt/>) é uma função que fornece um número real como

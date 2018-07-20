@@ -1,4 +1,5 @@
 # Soremun
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Dado um número inteiro, apresente-o ao contrário.
 

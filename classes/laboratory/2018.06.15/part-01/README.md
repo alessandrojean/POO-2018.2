@@ -1,4 +1,5 @@
 # Classes, objetos, mensagens, UML (prática)
+*Retirado dos slides do Prof. Paulo H. Pisani e Prof. Saul C. Leite, CMCC/UFABC.*
 
 ## Exercício 01
 

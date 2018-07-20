@@ -1,4 +1,5 @@
 # Inverter
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Dados `N` números inteiros, seu programa deve imprimir estes números na 
 ordem inversa à ordem de entrada.

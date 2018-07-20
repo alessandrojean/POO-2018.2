@@ -1,4 +1,5 @@
 # Código Morse
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Código Morse é um sistema de representação de letras, números e sinais de 
 pontuação através de um sinal codificado enviado intermitentemente. Foi 

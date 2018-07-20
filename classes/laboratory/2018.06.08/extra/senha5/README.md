@@ -1,4 +1,5 @@
 # Senha Segura 5
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Em um determinado sistema que estão construindo exigem que a senha tenha os 
 seguintes critérios de segurança:

@@ -1,4 +1,5 @@
 # Consoantes
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Faça um programa que receba uma sequência de letras e mostre quantas
 delas eram consoantes.

@@ -1,4 +1,5 @@
 # Calculando Determinantes
+*Exercício do Prof. Saul C. Leite, CMCC/UFABC.*
 
 ## Enunciado
 

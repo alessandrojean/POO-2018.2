@@ -1,4 +1,5 @@
 # Chocolate de aniversário [2]
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Lilita dessa vez tem uma barra de chocolate e vai dividir novamente com 
 seu amigo aniversariante Manolito. Cada bloquinho da barra de chocolate 

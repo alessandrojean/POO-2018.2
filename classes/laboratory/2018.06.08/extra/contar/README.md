@@ -1,4 +1,5 @@
 # Contar
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Dado um vetor `V` com `N` números inteiros, seu programa deve determinar
 quantos elementos de `V` são maiores ou iguais a um determinado valor

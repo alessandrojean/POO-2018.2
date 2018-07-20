@@ -1,4 +1,5 @@
 # Potencia
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Exponenciação ou potenciação é uma operação matemática, escrita como 
 $a^n$, envolvendo dois números: a base $a$ e o expoente $n$. 

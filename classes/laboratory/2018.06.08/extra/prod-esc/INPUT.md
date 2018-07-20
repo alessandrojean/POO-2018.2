@@ -1,4 +1,5 @@
 # Produto Escalar
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Em álgebra linear, o produto escalar de dois vetores $A$ e $B$
 (denotado por $A \cdot B$) é uma função que fornece um número real como

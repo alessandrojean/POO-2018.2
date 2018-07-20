@@ -1,4 +1,5 @@
 # Elimina Vogais
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Faça um programa que receba uma sequencia de palavras e as imprima sem as
 vogais. Além disso, mostre quantas vogais foram eliminadas de cada uma 

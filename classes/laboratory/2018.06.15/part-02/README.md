@@ -1,4 +1,5 @@
 # Listas ligadas (prática)
+*Retirado dos slides do Prof. Paulo H. Pisani e Prof. Saul C. Leite, CMCC/UFABC.*
 
 ## Listas com arranjos
 

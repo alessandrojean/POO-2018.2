@@ -1,4 +1,5 @@
 # Soma Transposta
+*Exercício do Prof. Monael P. Ribeiro, CMCC/UFABC.*
 
 Em matemática, **matriz transposta** é a matriz obtida através da
 troca de linhas por colunas de uma dada matriz. A matriz transposta
