@@ -31,7 +31,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **25/07/2018** *(Theory)*: Design patterns.
 - **27/07/2018** *(Laboratory)*: [Design patterns exercises].
 - **01/08/2018** *(Theory)*: Threads.
-- **03/08/2018** *(Laboratory)*: **[Project] apresentation**.
+- **03/08/2018** *(Laboratory)*: **[Project] presentation**.
 - **08/08/2018** *(Theory)*: Generics.
 - **10/08/2018** *(Laboratory)*: [Generics exercises].
 - **15/08/2018** *(Theory)*: Review.
