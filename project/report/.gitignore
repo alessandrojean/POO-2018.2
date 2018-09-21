@@ -1,0 +1,10 @@
+definition.tex
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.synctex(busy)
+relatorio.pdf
+relatorio-final.pdf

@@ -8,7 +8,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA018--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.08.10-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.08.22-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -34,6 +34,9 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **03/08/2018** *(Laboratory)*: **[Project] apresentation**.
 - **08/08/2018** *(Theory)*: Generics.
 - **10/08/2018** *(Laboratory)*: [Generics exercises].
+- **15/08/2018** *(Theory)*: Review.
+- **17/08/2018** *(Laboratory)*: **Second test**.
+- **22/08/2018** *(Theory)*: Android.
 
 [Java review]: classes/theory/2018.06.06/
 [Java review exercises]: classes/laboratory/2018.06.08/
@@ -47,6 +50,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [Exceptions exercises]: classes/laboratory/2018.07.20/
 [Design patterns exercises]: classes/laboratory/2018.07.27/
 [Generics exercises]: classes/laboratory/2018.08.10/
+[Project]: project/
 
 
 ## Build instructions
