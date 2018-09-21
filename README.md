@@ -8,7 +8,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA018--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.07.27-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.08.10-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -17,10 +17,9 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **06/06/2018** *(Theory)*: [Java review].
 - **08/06/2018** *(Laboratory)*: [Java review exercises].
 - **13/06/2018** *(Theory)*: [Classes, objects, messages, encapsulation, UML].
-- **15/06/2018** *(Laboratory)*: [Classes, objects, messages, encapsulation,   UML exercises]. [Linked Lists].
+- **15/06/2018** *(Laboratory)*: [Classes, objects, messages, encapsulation, UML exercises]. [Linked Lists].
 - **18/06/2018** *(Theory)*: [Constructors, overload, relashionships].
-- **23/06/2018** *(Laboratory)*: [Constructors, overload,
-  relashionships exercises].
+- **23/06/2018** *(Laboratory)*: [Constructors, overload, relashionships exercises].
 - **27/06/2018** *(Theory)*: Inheritance, polymorphism.
 - **29/06/2018** *(Laboratory)* [Inheritance, polymorphism exercises].
 - **04/07/2018** *(Theory)*: Interfaces, polymorphism.
@@ -31,6 +30,10 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **20/07/2018** *(Laboratory)*: [Exceptions exercises].
 - **25/07/2018** *(Theory)*: Design patterns.
 - **27/07/2018** *(Laboratory)*: [Design patterns exercises].
+- **01/08/2018** *(Theory)*: Threads.
+- **03/08/2018** *(Laboratory)*: **[Project] apresentation**.
+- **08/08/2018** *(Theory)*: Generics.
+- **10/08/2018** *(Laboratory)*: [Generics exercises].
 
 [Java review]: classes/theory/2018.06.06/
 [Java review exercises]: classes/laboratory/2018.06.08/
@@ -43,6 +46,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [Interfaces, polymorphism exercises]: classes/laboratory/2018.07.06/
 [Exceptions exercises]: classes/laboratory/2018.07.20/
 [Design patterns exercises]: classes/laboratory/2018.07.27/
+[Generics exercises]: classes/laboratory/2018.08.10/
 
 
 ## Build instructions
