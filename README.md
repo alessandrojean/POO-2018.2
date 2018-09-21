@@ -8,7 +8,7 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA018--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.06.18-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.07.27-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-Java-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -21,8 +21,16 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 - **18/06/2018** *(Theory)*: [Constructors, overload, relashionships].
 - **23/06/2018** *(Laboratory)*: [Constructors, overload,
   relashionships exercises].
-- **27/06/2018** *(Theory)*: [Inheritance, polymorphism].
+- **27/06/2018** *(Theory)*: Inheritance, polymorphism.
 - **29/06/2018** *(Laboratory)* [Inheritance, polymorphism exercises].
+- **04/07/2018** *(Theory)*: Interfaces, polymorphism.
+- **06/07/2018** *(Laboratory)*: [Interfaces, polymorphism exercises].
+- **11/07/2018** *(Theory)*: Review.
+- **13/07/2018** *(Laboratory)*: **First test**.
+- **18/07/2018** *(Theory)*: Exceptions.
+- **20/07/2018** *(Laboratory)*: [Exceptions exercises].
+- **25/07/2018** *(Theory)*: Design patterns.
+- **27/07/2018** *(Laboratory)*: [Design patterns exercises].
 
 [Java review]: classes/theory/2018.06.06/
 [Java review exercises]: classes/laboratory/2018.06.08/
@@ -31,8 +39,11 @@ Orientada a Objetos) at Federal University of ABC (UFABC).
 [Linked Lists]: classes/laboratory/2018.06.15/part-02/
 [Constructors, overload, relashionships]: classes/theory/2018.06.18/
 [Constructors, overload, relashionships exercises]: classes/laboratory/2018.06.23/
-[Inheritance, polymorphism]: classes/theory/2018.06.27/
 [Inheritance, polymorphism exercises]: classes/laboratory/2018.06.29/
+[Interfaces, polymorphism exercises]: classes/laboratory/2018.07.06/
+[Exceptions exercises]: classes/laboratory/2018.07.20/
+[Design patterns exercises]: classes/laboratory/2018.07.27/
+
 
 ## Build instructions
 

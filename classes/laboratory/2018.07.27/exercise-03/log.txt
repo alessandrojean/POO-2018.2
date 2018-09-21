@@ -1,0 +1,16 @@
+[1] Inicio do programa
+[2] Classe Plano instanciada
+[3] Aulas basicas foram criadas
+[4] Aula adicionada
+[5] Aula adicionada
+[6] Aula adicionada
+[7] Aula adicionada
+[8] Aula adicionada
+[9] Aula adicionada
+[10] Aula adicionada
+[11] Plano impresso
+[12] Formula obtida
+[13] Provas foram canceladas
+[14] Plano impresso
+[15] Formula obtida
+[16] Fim do programa
